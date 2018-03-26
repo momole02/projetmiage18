@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Librairies_java/JSoup/jsoup-1.11.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Librairies_java/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Librairies_java/langageTool/LanguageTool-3.0-SNAPSHOT/languagetool.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
